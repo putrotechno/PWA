@@ -1,0 +1,23 @@
+{
+    "name": "PutroTechno.com",
+    "short_name": "PutroTechno",
+    "icons": [
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD8k_53Dpc3_cj1rGL6834h7BUuzzFRJzV6OAiPqUaDsSYhhE_j1TUzyEbKv1SHWYFuajadvXi8Qr2FyPXXf7K2rUsOuI8lovrx1j4C-jBNX6ZkdcpsMSqdDRZG_j-PWeDqMbbWsMGAtV8Kr4vDgvdvpC8NBtM2cid_p5XIR9zTEaLjJt8Hhdmdzmmxg/s192/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRDrV4QcF4KkTAyZ28OpWCYCk9mZsNnyjb0t_dwrdo5rKTYsGpPZ_hu05yIU3SUjxbwHEJEgaR3GS-SFuhO89gautqLp0csw9UO75955L77tR9oTECjj2Wtue-C1-P3BwHsGv9s7qwE-BV0V6by_hvip4JDdaVo2NB6hJlU58tnL_DvTAw9DJayOABIw/s512/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ],
+    "theme_color": "#3291d1",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "prefer_related_applications": false,
+  "start_url": "https://www.putrotechno.com/"
+}
